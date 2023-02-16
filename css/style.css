@@ -251,6 +251,10 @@ body {
     -o-transition: all 0.4s ease;
     transition: all 0.4s ease;
   }
+  
+  .nav-list__item-bloc {
+    display: none;
+  }
   .nav-list__item-link:hover {
     color: #0c0c0c;
     border-bottom: #ffdc00 3px solid;
