@@ -894,7 +894,7 @@ body {
 
 @media (max-width: 1025px) {
   .image-slider__img {
-    max-width: 600px;
+    max-width: 80%;
   }
 }
 @media (max-width: 475px) {
